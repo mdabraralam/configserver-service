@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Fatima Abrar - Product Owner"
+    name: "M Abrar Abrar - Product Owner"
     email: "mdabraralam@gmail.com"
   onCallSupport:
     - (080) 392-4829
