@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Noori Falak - Product Owner"
+    name: "Noori Falak 2 - Product Owner"
     email: "mdabraralam@gmail.com"
   onCallSupport:
     - (080) 392-4829
