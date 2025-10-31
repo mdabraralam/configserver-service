@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    name: "Noori Falak - Product Owner"
+    email: "nooriflk@gmail.com"
   onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
+    - (080) 392-4829
+    - (234) 203-0384
